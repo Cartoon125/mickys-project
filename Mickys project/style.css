@@ -1,0 +1,31 @@
+*{
+padding:0;
+margin:0;
+}
+.main{
+background-image: url(pic/bg.jpg);
+background-size: cover;
+background-position: centre;
+box-sizing:border-box;
+font-family: sans-serif;
+}
+.navbar{
+width: 86%;
+display: flex;
+margin: auto;
+padding: 15px 0;
+align-items: centre;
+justify-content: space-between;
+}
+.navbar.logo{
+width:160px;
+cursor:pointer;
+margin-top: =3%;
+margin-left: =2%;
+}
+ul{
+list-style: none;
+display: inline-block;
+padding: 10px 16px;
+}
+
